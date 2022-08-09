@@ -1,3 +1,6 @@
 [submodule "color-button"]
 	path = color-button
 	url = https://github.com/marcoscoelho1/color-button
+[submodule "sundaes-on-demand"]
+	path = sundaes-on-demand
+	url = git@github.com:marcoscoelho1/sundaes-on-demand.git
